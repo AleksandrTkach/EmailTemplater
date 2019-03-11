@@ -1,0 +1,70 @@
+.far,
+.fas {
+  display: inline-block;
+  height: 15px;
+  width: 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.svg-md {
+  height: 18px;
+  width: 18px;
+}
+
+.fa- {
+  &bold {
+    background-image: url("./assets/img/bold-solid.svg");
+  }
+  &italic {
+    background-image: url("./assets/img/italic-solid.svg");
+  }
+  &underline {
+    background-image: url("./assets/img/underline-solid.svg");
+  }
+  &list-ol {
+    background-image: url("./assets/img/list-ol-solid.svg");
+  }
+  &list {
+    background-image: url("./assets/img/list-solid.svg");
+  }
+  &outdent {
+    background-image: url("./assets/img/outdent-solid.svg");
+  }
+  &indent {
+    background-image: url("./assets/img/indent-solid.svg");
+  }
+  &align-left {
+    background-image: url("./assets/img/align-left-solid.svg");
+  }
+  &align-center {
+    background-image: url("./assets/img/align-center-solid.svg");
+  }
+  &align-right {
+    background-image: url("./assets/img/align-right-solid.svg");
+  }
+  &link {
+    background-image: url("./assets/img/link-solid.svg");
+  }
+  &unlink {
+    background-image: url("./assets/img/unlink-solid.svg");
+  }
+  &check {
+    background-image: url("./assets/img/check-solid.svg");
+  }
+  &redo {
+    background-image: url("./assets/img/redo-solid.svg");
+  }
+  &edit {
+    background-image: url("./assets/img/edit-solid.svg");
+  }
+  &file-alt {
+    background-image: url("./assets/img/file-alt-solid.svg");
+  }
+  &folder-open {
+    background-image: url("./assets/img/folder-open-regular.svg");
+  }
+  &search {
+    background-image: url("./assets/img/search-solid.svg");
+  }
+}
